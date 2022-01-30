@@ -5,8 +5,9 @@ public class Main {
     public static void main(String[] args) {
 	    int choice;
 
-	    String[] outcomes = new String[] {"It is certain.",
+	    String[] outcomes = new String[] {
             // affirmative outcomes:
+	    "It is certain.",
             "It is decidedly so.",
             "Without a doubt.",
             "Yes - definitely.",
